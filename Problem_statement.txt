@@ -1,0 +1,1 @@
+Automate Loan Eligibility Process using ML. Predict home loan eligibility based on customer details. Use training & test set (CSV URLs) for model building & validation. Real-time scenario.
